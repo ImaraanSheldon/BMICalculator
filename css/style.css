@@ -1,0 +1,7 @@
+.full-body{
+    min-height: 100vh;
+    min-width: 100vw;
+}
+.bg-bmi{
+    background-color: grey;
+}
